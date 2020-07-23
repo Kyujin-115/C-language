@@ -1,0 +1,2 @@
+C:\Users\user_1\Desktop\C언어\5-변수와 연산자\Debug\5-변수와 연산자.exe
+C:\Users\user_1\Desktop\C언어\5-변수와 연산자\Debug\5-변수와 연산자.pdb
